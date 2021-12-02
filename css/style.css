@@ -1,0 +1,17 @@
+#header-section {
+    height:500px;
+    
+}
+
+#box-figure {
+color: gray;
+width:auto;
+height: 400px;
+background-color: #EEEEEE;
+text-align: center;
+}
+
+.circle{
+    width:150px;
+    height: 150px;
+}
